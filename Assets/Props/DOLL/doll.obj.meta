@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: b75251fab65b0fe4d8646a13a058bc2a
+timeCreated: 1536664122
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: g_polySurface13_polySurface13
+    100004: g_polySurface1_pSphere19_polySurface1_pSphere19
+    100006: g_pSphere19_polySurface10_pSphere19_polySurface10
+    100008: g_pSphere19_polySurface11_pSphere19_polySurface11
+    100010: g_pSphere19_polySurface12_pSphere19_polySurface12
+    100012: g_pSphere19_polySurface27_pSphere19_polySurface27
+    100014: g_pSphere19_polySurface28_pSphere19_polySurface28
+    100016: g_pSphere19_polySurface2_pSphere19_polySurface2
+    100018: g_pSphere19_polySurface3_pSphere19_polySurface3
+    100020: g_pSphere19_polySurface4_pSphere19_polySurface4
+    100022: g_pSphere19_polySurface5_pSphere19_polySurface5
+    100024: g_pSphere19_polySurface6_pSphere19_polySurface6
+    100026: g_pSphere19_polySurface7_pSphere19_polySurface7
+    100028: g_pSphere19_polySurface8_pSphere19_polySurface8
+    100030: g_pSphere19_polySurface9_pSphere19_polySurface9
+    400000: //RootNode
+    400002: g_polySurface13_polySurface13
+    400004: g_polySurface1_pSphere19_polySurface1_pSphere19
+    400006: g_pSphere19_polySurface10_pSphere19_polySurface10
+    400008: g_pSphere19_polySurface11_pSphere19_polySurface11
+    400010: g_pSphere19_polySurface12_pSphere19_polySurface12
+    400012: g_pSphere19_polySurface27_pSphere19_polySurface27
+    400014: g_pSphere19_polySurface28_pSphere19_polySurface28
+    400016: g_pSphere19_polySurface2_pSphere19_polySurface2
+    400018: g_pSphere19_polySurface3_pSphere19_polySurface3
+    400020: g_pSphere19_polySurface4_pSphere19_polySurface4
+    400022: g_pSphere19_polySurface5_pSphere19_polySurface5
+    400024: g_pSphere19_polySurface6_pSphere19_polySurface6
+    400026: g_pSphere19_polySurface7_pSphere19_polySurface7
+    400028: g_pSphere19_polySurface8_pSphere19_polySurface8
+    400030: g_pSphere19_polySurface9_pSphere19_polySurface9
+    2300000: g_polySurface13_polySurface13
+    2300002: g_polySurface1_pSphere19_polySurface1_pSphere19
+    2300004: g_pSphere19_polySurface10_pSphere19_polySurface10
+    2300006: g_pSphere19_polySurface11_pSphere19_polySurface11
+    2300008: g_pSphere19_polySurface12_pSphere19_polySurface12
+    2300010: g_pSphere19_polySurface27_pSphere19_polySurface27
+    2300012: g_pSphere19_polySurface28_pSphere19_polySurface28
+    2300014: g_pSphere19_polySurface2_pSphere19_polySurface2
+    2300016: g_pSphere19_polySurface3_pSphere19_polySurface3
+    2300018: g_pSphere19_polySurface4_pSphere19_polySurface4
+    2300020: g_pSphere19_polySurface5_pSphere19_polySurface5
+    2300022: g_pSphere19_polySurface6_pSphere19_polySurface6
+    2300024: g_pSphere19_polySurface7_pSphere19_polySurface7
+    2300026: g_pSphere19_polySurface8_pSphere19_polySurface8
+    2300028: g_pSphere19_polySurface9_pSphere19_polySurface9
+    3300000: g_polySurface13_polySurface13
+    3300002: g_polySurface1_pSphere19_polySurface1_pSphere19
+    3300004: g_pSphere19_polySurface10_pSphere19_polySurface10
+    3300006: g_pSphere19_polySurface11_pSphere19_polySurface11
+    3300008: g_pSphere19_polySurface12_pSphere19_polySurface12
+    3300010: g_pSphere19_polySurface27_pSphere19_polySurface27
+    3300012: g_pSphere19_polySurface28_pSphere19_polySurface28
+    3300014: g_pSphere19_polySurface2_pSphere19_polySurface2
+    3300016: g_pSphere19_polySurface3_pSphere19_polySurface3
+    3300018: g_pSphere19_polySurface4_pSphere19_polySurface4
+    3300020: g_pSphere19_polySurface5_pSphere19_polySurface5
+    3300022: g_pSphere19_polySurface6_pSphere19_polySurface6
+    3300024: g_pSphere19_polySurface7_pSphere19_polySurface7
+    3300026: g_pSphere19_polySurface8_pSphere19_polySurface8
+    3300028: g_pSphere19_polySurface9_pSphere19_polySurface9
+    4300000: g_polySurface13_polySurface13
+    4300002: g_polySurface1_pSphere19_polySurface1_pSphere19
+    4300004: g_pSphere19_polySurface10_pSphere19_polySurface10
+    4300006: g_pSphere19_polySurface11_pSphere19_polySurface11
+    4300008: g_pSphere19_polySurface12_pSphere19_polySurface12
+    4300010: g_pSphere19_polySurface27_pSphere19_polySurface27
+    4300012: g_pSphere19_polySurface28_pSphere19_polySurface28
+    4300014: g_pSphere19_polySurface2_pSphere19_polySurface2
+    4300016: g_pSphere19_polySurface3_pSphere19_polySurface3
+    4300018: g_pSphere19_polySurface4_pSphere19_polySurface4
+    4300020: g_pSphere19_polySurface5_pSphere19_polySurface5
+    4300022: g_pSphere19_polySurface6_pSphere19_polySurface6
+    4300024: g_pSphere19_polySurface7_pSphere19_polySurface7
+    4300026: g_pSphere19_polySurface8_pSphere19_polySurface8
+    4300028: g_pSphere19_polySurface9_pSphere19_polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

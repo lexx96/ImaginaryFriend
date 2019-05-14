@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 85b09780fcb938e4da0e7c1926b3eeb2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Map_v6_Control_Room
+    100004: Map_v6_DontNeedTextureThis_polySurface305
+    100006: Map_v6_Generator_Room
+    100008: Map_v6_Grinder_To_Control_TransitionRoom
+    100010: Map_v6_group2_Pillar
+    100012: Map_v6_group2_R_Gate
+    100014: Map_v6_group2_RunPass_Background_Ground
+    100016: Map_v6_group2_RunPass_Background_Wall
+    100018: Map_v6_group2_RunPass_PlayerPath_Ground
+    100020: Map_v6_group2_RunPass_PlayerPath_Wall
+    100022: Map_v6_L_Gate_group2
+    100024: Map_v6_polySurface309_DontNeedTextureThis
+    100026: Map_v6_PuzzleRoom
+    100028: Map_v6_Staircase_Room
+    100030: polySurface292_Map_v6
+    400000: //RootNode
+    400002: Map_v6_Control_Room
+    400004: Map_v6_DontNeedTextureThis_polySurface305
+    400006: Map_v6_Generator_Room
+    400008: Map_v6_Grinder_To_Control_TransitionRoom
+    400010: Map_v6_group2_Pillar
+    400012: Map_v6_group2_R_Gate
+    400014: Map_v6_group2_RunPass_Background_Ground
+    400016: Map_v6_group2_RunPass_Background_Wall
+    400018: Map_v6_group2_RunPass_PlayerPath_Ground
+    400020: Map_v6_group2_RunPass_PlayerPath_Wall
+    400022: Map_v6_L_Gate_group2
+    400024: Map_v6_polySurface309_DontNeedTextureThis
+    400026: Map_v6_PuzzleRoom
+    400028: Map_v6_Staircase_Room
+    400030: polySurface292_Map_v6
+    2100000: Map_v6_Control_RoomMat
+    2100002: Map_v6_DontNeedTextureThis_polySurface305Mat
+    2100004: Map_v6_Generator_RoomMat
+    2100006: Map_v6_Grinder_To_Control_TransitionRoomMat
+    2100008: Map_v6_group2_PillarMat
+    2100010: Map_v6_group2_R_GateMat
+    2100012: Map_v6_group2_RunPass_Background_GroundMat
+    2100014: Map_v6_group2_RunPass_Background_WallMat
+    2100016: Map_v6_group2_RunPass_PlayerPath_GroundMat
+    2100018: Map_v6_group2_RunPass_PlayerPath_WallMat
+    2100020: Map_v6_L_Gate_group2Mat
+    2100022: Map_v6_polySurface309_DontNeedTextureThisMat
+    2100024: Map_v6_PuzzleRoomMat
+    2100026: Map_v6_Staircase_RoomMat
+    2100028: polySurface292_Map_v6Mat
+    2300000: Map_v6_Control_Room
+    2300002: Map_v6_DontNeedTextureThis_polySurface305
+    2300004: Map_v6_Generator_Room
+    2300006: Map_v6_Grinder_To_Control_TransitionRoom
+    2300008: Map_v6_group2_Pillar
+    2300010: Map_v6_group2_R_Gate
+    2300012: Map_v6_group2_RunPass_Background_Ground
+    2300014: Map_v6_group2_RunPass_Background_Wall
+    2300016: Map_v6_group2_RunPass_PlayerPath_Ground
+    2300018: Map_v6_group2_RunPass_PlayerPath_Wall
+    2300020: Map_v6_L_Gate_group2
+    2300022: Map_v6_polySurface309_DontNeedTextureThis
+    2300024: Map_v6_PuzzleRoom
+    2300026: Map_v6_Staircase_Room
+    2300028: polySurface292_Map_v6
+    3300000: Map_v6_Control_Room
+    3300002: Map_v6_DontNeedTextureThis_polySurface305
+    3300004: Map_v6_Generator_Room
+    3300006: Map_v6_Grinder_To_Control_TransitionRoom
+    3300008: Map_v6_group2_Pillar
+    3300010: Map_v6_group2_R_Gate
+    3300012: Map_v6_group2_RunPass_Background_Ground
+    3300014: Map_v6_group2_RunPass_Background_Wall
+    3300016: Map_v6_group2_RunPass_PlayerPath_Ground
+    3300018: Map_v6_group2_RunPass_PlayerPath_Wall
+    3300020: Map_v6_L_Gate_group2
+    3300022: Map_v6_polySurface309_DontNeedTextureThis
+    3300024: Map_v6_PuzzleRoom
+    3300026: Map_v6_Staircase_Room
+    3300028: polySurface292_Map_v6
+    4300000: Map_v6_Control_Room
+    4300002: Map_v6_DontNeedTextureThis_polySurface305
+    4300004: Map_v6_Generator_Room
+    4300006: Map_v6_Grinder_To_Control_TransitionRoom
+    4300008: Map_v6_group2_Pillar
+    4300010: Map_v6_group2_R_Gate
+    4300012: Map_v6_group2_RunPass_Background_Ground
+    4300014: Map_v6_group2_RunPass_Background_Wall
+    4300016: Map_v6_group2_RunPass_PlayerPath_Ground
+    4300018: Map_v6_group2_RunPass_PlayerPath_Wall
+    4300020: Map_v6_L_Gate_group2
+    4300022: Map_v6_polySurface309_DontNeedTextureThis
+    4300024: Map_v6_PuzzleRoom
+    4300026: Map_v6_Staircase_Room
+    4300028: polySurface292_Map_v6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
